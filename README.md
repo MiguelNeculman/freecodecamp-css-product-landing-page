@@ -16,6 +16,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1912a224-1eed-4d0a-b6cc-e0c28f2fb6d5/deploy-status)](https://product-landing-page-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-product-landing-page&left_text=repo%20views)
 
 ## ℹ️ Product Showcase Site for "ByteForge"
 
